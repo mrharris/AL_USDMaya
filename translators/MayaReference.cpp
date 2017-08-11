@@ -26,7 +26,7 @@
 #include "maya/MItDag.h"
 #include "AL/usdmaya/nodes/Transform.h"
 #include "AL/usdmaya/fileio/translators/DgNodeTranslator.h"
-#include "AL/usd/schemas/MayaReference.h"
+#include "MayaReference.h"
 
 IGNORE_USD_WARNINGS_PUSH
 #include <pxr/usd/usd/attribute.h>
